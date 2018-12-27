@@ -1,3 +1,3 @@
 # docker-compose-macos
 
-The docker compose's for developers using MacOS
+Docker compose's for developers using MacOS
